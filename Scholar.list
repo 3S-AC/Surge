@@ -6,6 +6,7 @@
 # DOMAIN-SUFFIX: 229
 # TOTAL: 230
 
+DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,acs.org
 DOMAIN-SUFFIX,cell.com
 DOMAIN-SUFFIX,clarivate.com
@@ -19,6 +20,7 @@ DOMAIN-SUFFIX,pnas.org
 DOMAIN-SUFFIX,rsc.org
 DOMAIN-SUFFIX,science.org
 DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,editorialmanager.com
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,zotero.org
