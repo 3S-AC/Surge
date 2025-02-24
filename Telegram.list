@@ -5,7 +5,6 @@
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
-#
 # This file contains domains used by Telegram Messenger.
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
@@ -23,13 +22,6 @@ DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,t.me
-
-# Sukka's Ruleset - Telegram IP CIDR
-# Last Updated: 2021-10-01T16:51:55.000Z
-# Size: 14
-# License: AGPL 3.0
-# Homepage: https://ruleset.skk.moe
-# GitHub: https://github.com/SukkaW/Surge
 # Data from:
 #  - https://core.telegram.org/resources/cidr.txt
 #########################################
