@@ -24,6 +24,8 @@ DOMAIN-KEYWORD,sciencedirect
 DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,deepdyve
 DOMAIN-KEYWORD,els-cdn
+DOMAIN-KEYWORD,sci-hub
+
 #BT下载及PT站
 DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,orpheus.network
