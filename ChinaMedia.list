@@ -42,7 +42,7 @@ DOMAIN, yunpan8.cc
 #小苹果
 DOMAIN-KEYWORD, xpgtv
 #影视天堂
-DOMAIN, ysttv.com
+DOMAIN-SUFFIX, ysttv.com
 #播放
 DOMAIN-SUFFIX, 7dgirl.org
 #金牌影院
@@ -106,6 +106,7 @@ DOMAIN-SUFFIX, zxzja.com
 DOMAIN-SUFFIX, ctyunxs.cn
 #素白白主页
 DOMAIN, www.subaibaiys.com
+DOMAIN, www.subaibai.com
 #播放
 DOMAIN, dc.xhscdn.com
 DOMAIN-SUFFIX, wangchuanxin.top
