@@ -41,8 +41,6 @@ DOMAIN, yunpan8.cc
 #VOD源
 #小苹果
 DOMAIN-KEYWORD, xpgtv
-#影视天堂
-DOMAIN-SUFFIX, ysttv.com
 #播放
 DOMAIN-SUFFIX, 7dgirl.org
 #金牌影院
@@ -99,7 +97,7 @@ DOMAIN-SUFFIX, larksuitecdn.com
 DOMAIN, dc.xhscdn.com
 DOMAIN, mdn.alipayobjects.com
 #天天主页
-DOMAIN, op.ysdqjs.cn
+DOMAIN-SUFFIX, ysdqjs.cn
 #在线之家主页
 DOMAIN-SUFFIX, zxzja.com
 #播放
