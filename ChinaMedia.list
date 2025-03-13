@@ -108,16 +108,12 @@ DOMAIN, www.subaibai.com
 #播放
 DOMAIN, dc.xhscdn.com
 DOMAIN-SUFFIX, wangchuanxin.top
-#海龟TV
-DOMAIN-SUFFIX, haigui.tv
 #桃子影视
 DOMAIN-SUFFIX, taozi008.com
 #剧迷TV
 DOMAIN-SUFFIX, gimy.tv
-#影视TV
-DOMAIN-SUFFIX, yingshi.tv
 #新视觉
-DOMAIN-SUFFIX,sypfjy.com
+DOMAIN-SUFFIX, sypfjy.com
 #555影视
 DOMAIN-SUFFIX, wuwugo.life
 #大米星球
