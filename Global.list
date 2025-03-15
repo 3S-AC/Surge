@@ -8,7 +8,6 @@
 #
 # This file contains rules for services that are not available inside the Mainland China.
 #########################################
-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,network
 DOMAIN-SUFFIX,x.company
